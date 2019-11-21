@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+git+https://github.com/aleju/imgaug#egg=imgaug
+opencv-python
+scipy
+
